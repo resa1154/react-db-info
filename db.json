@@ -1,0 +1,9 @@
+{
+"BankAccount":[{
+"id":1,
+"bank":"BCA",
+"no_rekening":"3244412220",
+"member_name":"Ujang",
+"branch":"Bandung"
+}]
+}
